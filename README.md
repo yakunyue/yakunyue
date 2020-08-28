@@ -1,9 +1,7 @@
 # Hi I'm kun 👋
 
-- 🔭 I’m currently working on Gome
-- 🌱 I’m currently learning VUE
-- 📫 My email: yyk_job@163.com
-- 😄 Open Source Project: I am working on [小链家](https://house.fengxiuge.com) in my spare time. You are welcome to join me.
+- 🔭 目前任职于国美金融
+- 📫 Email: yyk_job@163.com
 
 ## 关于小链家
 
