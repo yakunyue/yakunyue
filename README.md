@@ -19,7 +19,7 @@
 
 前端项目地址：https://github.com/yueyakun2017/house-web
 
-后端项目尚未开发，如果你有兴趣可以私信我，或者加我的微信：yykandxhh
+后端项目尚未开放，如果你有兴趣可以私信我，或者加我的微信：yykandxhh
 
 ### TODO
 
