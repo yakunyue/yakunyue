@@ -34,11 +34,11 @@
 
 扫码关注公众号
 
-![](/gongzhonghao.png)
+![](/gongzhonghao.jpg)
 
 扫码体验小程序
 
-![](/xiaochengxu.png)
+![](/xiaochengxu.jpg)
 
 [![](https://github-readme-stats.vercel.app/api?username=yueyakun2017)](https://blog.fengxiuge.top)
 
