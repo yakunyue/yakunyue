@@ -13,19 +13,32 @@
 
 体验网址：[小链家](http://house.fengxiuge.top)
 
-体验账号：xhh
-
-体验密码：123789
+体验账号：xhh  体验密码：123789
 
 前端项目地址：https://github.com/yueyakun2017/house-web
 
-后端项目尚未开放，如果你有兴趣可以私信我，或者加我的微信：yykandxhh
+后端项目尚未开放，如果你有兴趣可以私信我，或者发邮件给我：yyk_job@163.com
 
 前路漫漫，期待你的加入！
 
 <br>
 <br>
-<br>
+
+## 关于郑房曲线
+
+另外我还开通了一个微信公众号和一个小程序，名字都叫：**郑房曲线**
+
+做这个主要是想尝试新鲜事物吧，也增加点自己对小程序的认识。
+
+其次，发布一下收集到的郑州市的房价信息，方便他人。
+
+扫码关注公众号
+
+![](/gongzhonghao.png)
+
+扫码体验小程序
+
+![](/xiaochengxu.png)
 
 [![](https://github-readme-stats.vercel.app/api?username=yueyakun2017)](https://blog.fengxiuge.top)
 
