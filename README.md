@@ -15,7 +15,7 @@
 
 体验账号：xhh  体验密码：123789
 
-前端项目地址：https://github.com/yueyakun2017/house-web
+前端项目地址：https://github.com/yakunyue/house-web
 
 后端项目尚未开放，如果你有兴趣可以私信我，或者发邮件给我：yyk_job@163.com
 
