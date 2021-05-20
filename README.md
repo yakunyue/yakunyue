@@ -12,7 +12,7 @@
 前端项目地址：https://github.com/yakunyue/house-web 分支名：unify
 
 项目页面截图：
-![](/08.jpg)
+![](08.jpg)
 
 ## 关于郑房曲线
 
