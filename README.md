@@ -6,10 +6,12 @@
 ## 关于小链家
 
 
-小链家是我开发的一个展示二手房价格曲线的项目，数据大多收集自 [链家网](www.lianjia.com) 。
-仓库地址：[house-viewer](https://github.com/yakunyue/house-viewer)
+小链家是我开发的一个展示二手房价格曲线的项目，主要功能是从 [链家网](www.lianjia.com) 二手房成交数据，然后以可视化图表加以展示。
+项目体验地址：https://house.fengxiuge.top/
 
-前端项目地址：https://github.com/yakunyue/house-web 分支名：unify
+后端仓库地址：[house-viewer](https://github.com/yakunyue/house-viewer)
+
+前端仓库地址：https://github.com/yakunyue/house-web 分支名：unify
 
 项目页面截图：
 ![](08.png)
