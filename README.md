@@ -12,7 +12,7 @@
 
 后端仓库地址：[house-viewer](https://github.com/yakunyue/house-viewer)
 
-前端仓库地址：https://github.com/yakunyue/house-web 分支名：unify
+前端仓库地址：[house-web](https://github.com/yakunyue/house-web/tree/service-unify)
 
 项目页面截图：
 ![](08.png)
