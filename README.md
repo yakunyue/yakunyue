@@ -3,7 +3,7 @@
 - 📫 Email: yyk_job@163.com
 - ⭐️ Blog: [KUN'BLOG](https://blog.fengxiuge.top)
 
-**欢迎来到我的GITHUB主页，以下是我的开发的项目，请多支持！**
+**欢迎来到我的GITHUB主页，以下是我的业余开发的项目，请多支持！**
 
 ## 小链家
 
