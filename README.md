@@ -3,7 +3,7 @@
 - 📫 Email: yyk_job@163.com
 - ⭐️ Blog: [KUN'BLOG](https://blog.fengxiuge.top)
 
-**欢迎来到我的GITHUB主页，以下是我的业余开发的项目，请多支持！**
+## 欢迎来到我的GITHUB主页，以下是我的业余开发的项目，请多支持！
 
 ## 小链家
 
@@ -11,9 +11,9 @@
 
 项目体验地址：https://house.fengxiuge.top/
 
-后端仓库地址：[house-viewer](https://github.com/yakunyue/house-viewer)
+后端代码仓库地址：[house-viewer](https://github.com/yakunyue/house-viewer)
 
-前端仓库地址：[house-web](https://github.com/yakunyue/house-web/tree/service-unify)
+前端代码仓库地址：[house-web](https://github.com/yakunyue/house-web/tree/service-unify)
 
 项目页面截图：
 ![](08.png)
